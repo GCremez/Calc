@@ -1,6 +1,7 @@
-import "./style.css"
+import React from "react";
+import "./App.css"
 
-function App() {
+const App = () => {
   return (
     <div className="calc-grid">
       <div className="output">
